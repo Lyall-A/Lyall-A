@@ -4,12 +4,14 @@
 
 * I'm most familiar with JavaScript, but I want to get more familiar with C++ or/and Rust (because they are fast)
 
-* I have over 80 privated repositories because of how shit my code is.
+* I have over 60 privated repositories (and counting) because of how shit my code is.
 
 * There is nothing interesting to see here so please go away, thanks.
 
-### Top languages (It's JavaScript, don't trust computers):
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-A)
+### Top languages:
+![Top languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-A&theme=dark&border_radius=15&hide_border=true&layout=compact&exclude_repo=Derek-Firmware#gh-dark-mode-only)
+![Top languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-A&theme=default&border_radius=15&hide_border=true&layout=compact&exclude_repo=Derek-Firmware#gh-light-mode-only)
 
 ### GitHub stats (not good):
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyall-A)
+![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=dark&border_radius=15&hide_border=true#gh-dark-mode-only)
+![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=default&border_radius=15&hide_border=true#gh-light-mode-only)
