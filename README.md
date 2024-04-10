@@ -1,4 +1,4 @@
-# Hi, I'm [Lyall](https://discord.com/users/492729974026141697), a self-taught **retard**!
+# Hi, I'm [Lyall](https://discord.com/users/492729974026141697). A self-taught **retard**!
 
 ## About Me:
 
