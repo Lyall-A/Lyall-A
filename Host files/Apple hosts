@@ -1,4 +1,5 @@
-ppq.apple.com
-ocsp.apple.com
-ocsp2.apple.com
-certs.apple.com
+# Hosts for Apple
+127.0.0.1 ppq.apple.com
+127.0.0.1 ocsp.apple.com
+127.0.0.1 ocsp2.apple.com
+127.0.0.1 certs.apple.com

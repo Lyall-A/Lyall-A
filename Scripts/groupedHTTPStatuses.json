@@ -3,7 +3,7 @@
     "100": "Continue",
     "101": "Switching Protocols",
     "102": "Processing",
-    "103": "Early Hints",
+    "103": "Early Hints"
   },
   "successful": {
     "200": "OK",
@@ -15,7 +15,7 @@
     "206": "Partial Content",
     "207": "Multi-Status",
     "208": "Already Reported",
-    "226": "IM Used",
+    "226": "IM Used"
   },
     "redirect": {
     "300": "Multiple Choices",
@@ -26,7 +26,7 @@
     "305": "Use Proxy",
     "306": "unused",
     "307": "Temporary Redirect",
-    "308": "Permanent Redirect",
+    "308": "Permanent Redirect"
   },
     "clientError": {
     "400": "Bad Request",
@@ -57,7 +57,7 @@
     "428": "Precondition Required",
     "429": "Too Many Requests",
     "431": "Request Header Fields Too Large",
-    "451": "Unavailable For Legal Reasons",
+    "451": "Unavailable For Legal Reasons"
   },
   "serverError": {
     "500": "Internal Server Error",
