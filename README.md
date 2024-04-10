@@ -1,6 +1,6 @@
 # Hi, I'm [Lyall](https://discord.com/users/492729974026141697), a self-taught **retard**,<br>and I don't know what I'm doing!
 
-# About Me:
+## About Me:
 
 * I'm most familiar with JavaScript, but I want to get more familiar with C++ or/and Rust (because they are fast)
 
