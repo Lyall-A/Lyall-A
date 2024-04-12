@@ -1,5 +1,7 @@
 # [Installing Windows (Lyall's way)](https://www.microsoft.com/software-download/windows11)
 
+![Desktop Screenshot](Screenshot.png)
+
 ## These instructions are for the setup process
 * Set name as `Lyall`
 * Set computer name as `Lyalls-<device>` (eg. `Lyalls-PC`, `Lyalls-Laptop`)
@@ -17,6 +19,8 @@
 * Run `Chocolatey script(.bat)` as administrator
   * Wait for the script to finish installing everything. Manually install anything that failed
 * Run `SpotX auto-install(.bat)` as administrator
+* Remove all default pinned apps in Start menu
+* Pin Settings, File Explorer and all applications installed by the Chocolatey script to the Start menu
 * Set [settings](#settings)
 * Set [application settings](#application-settings)
 * Delete downloaded ZIP file and extracted folder
@@ -151,14 +155,38 @@
 * **Rainmeter**:
   * Copy the `Mond` folder from extracted folder at `Lyall-A main > Other > Rainmeter Skins` to `Documents\Rainmeter\Skins`
   * Replace `%appdata%\Roaming\Rainmeter\Rainmeter.ini` with the `Rainmeter (<date>).ini` file from extracted folder at `Lyall-A main > Configs` (rename to `Rainmeter.ini`)
+* **ModernFlyouts**:
+  * **Personalisation**:
+    * **Appearance**:
+      * Flyout background opacity: `95%`
+    * **Behaviour**:
+      * Flyout timeout (ms): `2500`
+  * **Layout**:
+    * **Flyout alignment**:
+      * Horizonal alignment: `Right`
+      * Vertical alignment: `Top`
+* **TranslucentTB**:
+  * Desktop: `Clear`
+  * Visible window: `Disabled`
+  * Maximized window: `Disabled`
+  * Start opened: `Disabled`
+  * Search opened: `Disabled`
+  * Task View opened: `Disabled`
+  * Battery saver: `Disabled`
+* **Spotify**:
+  * **Audio quality**:
+    * Streaming quality: `High`
+    * Auto-adjust quality: `Off`
+    * Normalise volume: `Off`
+  * **Playback**:
+    * Crossfade songs: `5 sec`
+    * Automix: `On
+  * **Start-up and window behaviour**:
+    * Open Spotify automatically after you log in to the computer: `Minimised`
+    * Close button should minimise the Spotify window: `On`
 
 ## Other applications not yet added to [Application Settings](#application-settings):
 * OBS Studio
-* Discord (Vencord)
-* Wallpaper Engine
-* TranslucentTB
-* ModernFlyouts
 * ShareX
 * Logitech G HUB
 * OpenRGB
-* The rest should be as simple as signing in (hopefully)
