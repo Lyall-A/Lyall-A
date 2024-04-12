@@ -42,6 +42,8 @@ visualstudio2019buildtools
 autoruns
 ffmpeg
 git
+modernflyouts
+translucenttb
 nodejs
 python
 msiafterburner
