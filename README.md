@@ -10,10 +10,6 @@
 
 * There is nothing interesting to see here so please go away, thanks.
 
-### Top languages:
-[![Top languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-A&theme=dark&border_radius=15&hide_border=true&layout=compact&exclude_repo=Dereks-Firmware#gh-dark-mode-only)](https://github.com/Lyall-A#gh-dark-mode-only)
-[![Top languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-A&theme=default&border_radius=15&hide_border=true&layout=compact&exclude_repo=Dereks-Firmware#gh-light-mode-only)](https://github.com/Lyall-A#gh-light-mode-only)
-
 ### GitHub stats (not good):
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=dark&border_radius=15&hide_border=true#gh-dark-mode-only)](https://github.com/Lyall-A#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=default&border_radius=15&hide_border=true#gh-light-mode-only)](https://github.com/Lyall-A#gh-light-mode-only)
