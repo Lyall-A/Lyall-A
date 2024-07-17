@@ -9,7 +9,3 @@
 * I have over 60 privated repositories (and counting) because of how shit my code is.
 
 * There is nothing interesting to see here so please go away, thanks.
-
-### GitHub stats (not good):
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=dark&border_radius=15&hide_border=true#gh-dark-mode-only)](https://github.com/Lyall-A#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lyall-A&show_icons=true&theme=default&border_radius=15&hide_border=true#gh-light-mode-only)](https://github.com/Lyall-A#gh-light-mode-only)
