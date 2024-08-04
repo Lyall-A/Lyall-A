@@ -1,4 +1,4 @@
-# Hi, I'm [Lyall](https://discord.com/users/492729974026141697), a self-taught ******!
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## About Me:
 
