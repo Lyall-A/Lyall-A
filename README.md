@@ -1,1 +1,1 @@
-# hi
+# [hi](https://discord.lyall.lol)
