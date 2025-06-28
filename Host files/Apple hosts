@@ -1,8 +1,0 @@
-# Hosts for Apple
-127.0.0.1 ocsp.apple.com
-127.0.0.1 ocsp2.apple.com
-127.0.0.1 valid.apple.com
-127.0.0.1 crl.apple.com
-127.0.0.1 certs.apple.com
-127.0.0.1 appattest.apple.com
-127.0.0.1 vpp.itunes.apple.com
