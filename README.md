@@ -4,7 +4,6 @@ I don't do anything spectacular
 * [Discord](https://discord.lyall.lol)
 * [hi@lyall.lol](mailto:hi@lyall.lol)
 
-
 ## Some of my projects
 * [Yet-Another-Proxy](https://github.com/Lyall-A/Yet-Another-Proxy) - HTTP reverse proxy
 * [Plasma-Lyrics](https://github.com/Lyall-A/Plasma-Lyrics) - Lyrics widget for KDE Plasma, using [LRCLIB](https://lrclib.net)
@@ -22,3 +21,8 @@ I don't do anything spectacular
 * [Crappy-Mania-Bot](https://github.com/Lyall-A/Crappy-Mania-Bot) - My first completed project in C#, automatically plays osu!mania for you
 * [BSOR2JSON](https://github.com/Lyall-A/BSOR2JSON) - Parses BSOR (Beat Saber open replay) to JSON
 * [Arch-Linux](https://github.com/Lyall-A/Arch-Linux) - My outdated Arch Linux setup
+
+## Stuff I've contributed to
+I'm new to this
+* [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player (deployed at https://music.lyall.lol)
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool (deployed at https://status.lyall.lol)
