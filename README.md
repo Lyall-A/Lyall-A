@@ -10,7 +10,7 @@ I don't do anything spectacular
 * [Janky-SDVX-Controller](https://github.com/Lyall-A/Janky-SDVX-Controller) - Homemade controller for the [Sound Voltex](https://p.eagate.573.jp/game/sdvx) arcade game
 * [Bluemoji-Downloader](https://github.com/Lyall-A/Bluemoji-Downloader) - Downloads all 900+ emojis from [bluemoji](https://bluemoji.io)
 * [TIDAL-Downloader](https://github.com/Lyall-A/TIDAL-Downloader) - Downloads albums, tracks and artists discography from [TIDAL](https://tidal.com)
-* [Neko-JS](https://github.com/Lyall-A/Neko-JS) - A cat for your website
+* [Neko-JS](https://github.com/Lyall-A/Neko-JS) - A cat for your website (try it [here](https://lyall-a.github.io/Neko-JS))
 * [Xbox-360-Mindex](https://github.com/Lyall-A/Xbox-360-Mindex) - Reverse engineering of the Xbox 360's Music Player
 * [Lyric-Tagger](https://github.com/Lyall-A/Lyric-Tagger) - Finds and adds lyrics to all songs in a directory, using [LRCLIB](https://lrclib.net)
 * [Discord-Voice-Test](https://github.com/Lyall-A/Discord-Voice-Test) - Figuring out Discord's Voice communication from scratch
