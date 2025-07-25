@@ -7,11 +7,12 @@ I don't do anything spectacular
 ## Some of my projects
 * [Yet-Another-Proxy](https://github.com/Lyall-A/Yet-Another-Proxy) - HTTP reverse proxy
 * [Plasma-Lyrics](https://github.com/Lyall-A/Plasma-Lyrics) - Lyrics widget for KDE Plasma, using [LRCLIB](https://lrclib.net)
-* [Lyric-Tagger](https://github.com/Lyall-A/Lyric-Tagger) - Finds and adds lyrics to all songs in a directory, using [LRCLIB](https://lrclib.net)
-* [Xbox-360-Mindex](https://github.com/Lyall-A/Xbox-360-Mindex) - Reverse engineering of the Xbox 360's Music Player
 * [Janky-SDVX-Controller](https://github.com/Lyall-A/Janky-SDVX-Controller) - Homemade controller for the [Sound Voltex](https://p.eagate.573.jp/game/sdvx) arcade game
-* [TIDAL-Downloader](https://github.com/Lyall-A/TIDAL-Downloader) - Downloads albums, tracks and artists discography from [TIDAL](https://tidal.com)
 * [Bluemoji-Downloader](https://github.com/Lyall-A/Bluemoji-Downloader) - Downloads all 900+ emojis from [bluemoji](https://bluemoji.io)
+* [TIDAL-Downloader](https://github.com/Lyall-A/TIDAL-Downloader) - Downloads albums, tracks and artists discography from [TIDAL](https://tidal.com)
+* [Neko-JS](https://github.com/Lyall-A/Neko-JS) - A cat for your website
+* [Xbox-360-Mindex](https://github.com/Lyall-A/Xbox-360-Mindex) - Reverse engineering of the Xbox 360's Music Player
+* [Lyric-Tagger](https://github.com/Lyall-A/Lyric-Tagger) - Finds and adds lyrics to all songs in a directory, using [LRCLIB](https://lrclib.net)
 * [Discord-Voice-Test](https://github.com/Lyall-A/Discord-Voice-Test) - Figuring out Discord's Voice communication from scratch
 * [Goofy-Mania-V2](https://github.com/Lyall-A/Goofy-Mania-V2) - Mid attempt at osu!mania clone
 * [Checkboxes](https://github.com/Lyall-A/Checkboxes) - A lot of checkboxes that can be toggled by anyone
