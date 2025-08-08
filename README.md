@@ -1,6 +1,6 @@
-I don't do anything spectacular
+i cant do anything fucking right
 
-* [My site](https://lyall.lol)
+* [My site (very cool)](https://lyall.lol)
 * [Discord](https://discord.lyall.lol)
 * [hi@lyall.lol](mailto:hi@lyall.lol)
 
@@ -24,6 +24,6 @@ I don't do anything spectacular
 * [Arch-Linux](https://github.com/Lyall-A/Arch-Linux) - My outdated Arch Linux setup
 
 ## Stuff I've contributed to
-I'm new to this
+im new to this
 * [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player (deployed at https://music.lyall.lol)
 * [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool (deployed at https://status.lyall.lol)
