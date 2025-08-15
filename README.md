@@ -25,5 +25,6 @@ i cant do anything fucking right
 
 ## Stuff I've contributed to
 im new to this
-* [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player (deployed at https://music.lyall.lol)
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool (deployed at https://status.lyall.lol)
+* [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool
+* [Jellyfin (Web)](https://github.com/jellyfin/jellyfin-web/commits?author=Lyall-A) - A self-hosted media player (+1 LINE WOOHOO!!)
