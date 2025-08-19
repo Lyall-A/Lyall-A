@@ -28,3 +28,6 @@ im new to this
 * [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player
 * [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool
 * [Jellyfin (Web)](https://github.com/jellyfin/jellyfin-web/commits?author=Lyall-A) - A self-hosted media player (+1 LINE WOOHOO!!)
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Lyall-A)
