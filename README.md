@@ -21,11 +21,5 @@ insert awesome text here
 * [Discord-Voice-Test](https://github.com/Lyall-A/Discord-Voice-Test) - Figuring out Discord's Voice communication from scratch
 * [Crappy-Mania-Bot](https://github.com/Lyall-A/Crappy-Mania-Bot) - My first completed project in C#, automatically plays osu!mania for you
 
-## Stuff I've contributed to
-im new to this
-* [Feishin](https://github.com/jeffvli/feishin/commits?author=Lyall-A) - A self-hosted music player
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma/commits?author=Lyall-A) - A self-hosted monitoring tool
-* [Jellyfin (Web)](https://github.com/jellyfin/jellyfin-web/commits?author=Lyall-A) - A self-hosted media player (+1 LINE WOOHOO!!)
-
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lyall-A)
