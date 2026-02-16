@@ -7,7 +7,7 @@ insert awesome text here
 ## AWESOME stuff
 * [tidalwave](https://github.com/Lyall-A/tidalwave) - Downloads music/videos from [TIDAL](https://tidal.com)
 * [Plasma-Lyrics](https://github.com/Lyall-A/Plasma-Lyrics) - Lyrics widget for KDE Plasma, using [LRCLIB](https://lrclib.net)
-* [Janky-SDVX-Controller](https://github.com/Lyall-A/Janky-SDVX-Controller) - Homemade controller for the [Sound Voltex](https://p.eagate.573.jp/game/sdvx) arcade game (LMAOOOOOOOO)
+* [Janky-SDVX-Controller](https://github.com/Lyall-A/Janky-SDVX-Controller) - Homemade controller for the [Sound Voltex](https://p.eagate.573.jp/game/sdvx) arcade game
 * [Xbox-360-Mindex](https://github.com/Lyall-A/Xbox-360-Mindex) - Converts any music format to something readable by the Xbox 360's Music Player
 * [Yet-Another-Proxy](https://github.com/Lyall-A/Yet-Another-Proxy) - A HTTP reverse proxy for my stuff
 * [Neko-JS](https://github.com/Lyall-A/Neko-JS) - A cat for your website (try it [here](https://lyall-a.github.io/Neko-JS))
